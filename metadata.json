@@ -1,0 +1,6 @@
+{
+  "name": "Intellichat",
+  "description": "An advanced AI chatbot featuring personalization, multi-turn memory, smart suggestions, and multilingual support designed for highly engaging and tailored conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
